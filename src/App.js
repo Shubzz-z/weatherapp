@@ -11,7 +11,7 @@ function App() {
       <div className="footer-info">
       Developed by{" "}
         <a target="_blank" href="https://www.gauravghai.dev/">
-        Shubham, Rohit
+        Shubham, Muskan
         </a>{" "}
         | Powered by{" "}
         <a target="_blank" href="https://www.htmlhints.com/">
